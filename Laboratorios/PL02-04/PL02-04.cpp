@@ -71,7 +71,9 @@ cout<<"Importe de compra es: "<<compra<<", Descuento es de: "<<desc<<", Importe 
 int main(){
 int cant;
 char ch;
+cout<<"Cantidad: "<<endl;
 cin>>cant;
+cout<<"Chocolate: "<<endl;
 cin>>ch;
 if (ch=='p'){
     p(cant);
