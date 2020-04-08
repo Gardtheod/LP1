@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1557153565 source:c:\users\amd\desktop\proyectos\lp1\nueva carpeta\multiplicacion de matrices\main.cpp
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-	<iostream>
-

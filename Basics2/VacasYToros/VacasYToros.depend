@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1556919848 source:c:\users\amd\desktop\proyectos\lp1\nueva carpeta\vacasytoros\main.cpp
-	<iostream>
-	<stdio.h>
-	<time.h>
-	<stdlib.h>
-
